@@ -2,6 +2,6 @@
 name = "rust-playground"
 version = "0.1.0"
 authors = ["Shahul Hameed <fake@hameid.net>"]
-edition = "2019"
+edition = "2018"
 
 [dependencies]
